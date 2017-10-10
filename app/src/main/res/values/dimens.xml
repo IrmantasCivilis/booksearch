@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_and_margins">16dp</dimen>
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="app_name_size">20sp</dimen>
+    <dimen name="drawable_padding">12dp</dimen>
+</resources>
